@@ -80,10 +80,10 @@
 "ui.popup" = { bg = "DarkGrey1" }
 "ui.selection" = { bg = "DarkGrey4" }
 "ui.selection.primary" = { bg = "DarkGrey4" }
-"ui.statusline" = { fg = "LightGrey2", bg = "DarkGrey4" }
-"ui.statusline.inactive" = { fg = "LightGrey3", bg = "DarkGrey3" }
+"ui.statusline" = { fg = "LightGrey2", bg = "DarkGrey3" }
+"ui.statusline.inactive" = { fg = "DarkGrey4", bg = "DarkGrey3" }
 "ui.statusline.insert" = { fg = "DarkGrey2", bg = "LightGreen" }
-"ui.statusline.normal" = { fg = "LightGrey2", bg = "DarkGrey4" }
+"ui.statusline.normal" = { fg = "LightGrey2", bg = "DarkGrey3" }
 "ui.statusline.select" = { fg = "DarkGrey2", bg = "LightYellow" }
 "ui.text" = "LightGrey2"
 "ui.text.directory" = "LightCyan"
