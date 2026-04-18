@@ -71,7 +71,7 @@
 "ui.gutter" = { bg = "DarkGrey2" }
 "ui.help" = { fg = "LightGrey2", bg = "DarkGrey1" }
 "ui.linenr" = { fg = "DarkGrey4", bg = "DarkGrey2" }
-"ui.linenr.selected" = { fg = "LightGrey2", bg = "DarkGrey3" }
+"ui.linenr.selected" = { fg = "LightGrey2" }
 "ui.menu" = { fg = "LightGrey2", bg = "DarkGrey3" }
 "ui.menu.scroll" = { fg = "DarkGrey4", bg = "DarkGrey3" }
 "ui.menu.selected" = { fg = "LightGrey2", bg = "DarkGrey4", modifiers = [
