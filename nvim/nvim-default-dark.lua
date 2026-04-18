@@ -83,6 +83,8 @@ vim.api.nvim_set_hl(0, "Visual", { bg = DarkGrey4 })
 vim.api.nvim_set_hl(0, "WarningMsg", { fg = LightYellow })
 vim.api.nvim_set_hl(0, "WinBar", { fg = LightGrey4, bg = DarkGrey1, bold = true })
 vim.api.nvim_set_hl(0, "WinBarNC", { fg = LightGrey4, bg = DarkGrey1 })
+vim.api.nvim_set_hl(0, "WinSeparator", { fg = DarkGrey4 })
+vim.api.nvim_set_hl(0, "VertSplit", { fg = DarkGrey4 })
 vim.api.nvim_set_hl(0, "lCursor", { fg = "bg", bg = "fg" })
 
 -- Syntax
