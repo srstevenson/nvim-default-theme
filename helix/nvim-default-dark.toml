@@ -93,7 +93,7 @@
 "ui.virtual.indent-guide" = "DarkGrey4"
 "ui.virtual.inlay-hint" = "LightGrey4"
 "ui.virtual.jump-label" = { fg = "LightYellow", modifiers = ["bold"] }
-"ui.virtual.ruler" = { bg = "DarkGrey4" }
+"ui.virtual.ruler" = { bg = "DarkGrey3" }
 "ui.virtual.whitespace" = "DarkGrey4"
 "ui.virtual.wrap" = "DarkGrey4"
 "ui.window" = "DarkGrey4"

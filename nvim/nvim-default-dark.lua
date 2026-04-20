@@ -32,7 +32,7 @@ vim.api.nvim_set_hl(0, "Normal", { fg = LightGrey2, bg = DarkGrey2 })
 -- UI
 vim.api.nvim_set_hl(0, "Added", { fg = LightGreen })
 vim.api.nvim_set_hl(0, "Changed", { fg = LightCyan })
-vim.api.nvim_set_hl(0, "ColorColumn", { bg = DarkGrey4 })
+vim.api.nvim_set_hl(0, "ColorColumn", { bg = DarkGrey3 })
 vim.api.nvim_set_hl(0, "Conceal", { fg = DarkGrey4 })
 vim.api.nvim_set_hl(0, "CurSearch", { fg = DarkGrey1, bg = LightYellow })
 vim.api.nvim_set_hl(0, "Cursor", { fg = "bg", bg = "fg" })
